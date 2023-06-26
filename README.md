@@ -8,6 +8,9 @@
  Project of a calculator using these tools: Javascript, HTML 5 and CSS 3. 
  The project has some additional features such as changing the dark/light theme and the option to copy the result to the clipboard.
 
+### Link to test:
+https://ricardocamposjr.github.io/calculator/ 
+
 ## Layouts:
 
 ### Web
